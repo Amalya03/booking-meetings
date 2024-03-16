@@ -1,0 +1,84 @@
+{
+  "services": [
+    {
+      "id": "services_1",
+      "name": "Marketing services",
+      "price": 50,
+      "duration": 60,
+      "image": "./assets/services/marketing.avif",
+      "specialists": ["specialist_1", "specialist_2"]
+    },
+    {
+      "id": "services_2",
+      "name": "Legal services",
+      "price": 80,
+      "duration": 90,
+      "image": "./assets/services/legal.avif",
+      "specialists": ["specialist_3", "specialist_5"]
+    },
+    {
+      "id": "services_3",
+      "name": "Health and wellness services",
+      "price": 80,
+      "duration": 90,
+      "image": "./assets/services/health.jpg",
+      "specialists": ["specialist_4", "specialist_6"]
+    },
+    {
+      "id": "services_4",
+      "name": "Insurance services",
+      "price": 80,
+      "duration": 90,
+      "image": "./assets/services/insurance.jpg",
+      "specialists": ["specialist_8"]
+    },
+    {
+      "id": "services_5",
+      "name": "Travel services",
+      "price": 80,
+      "duration": 90,
+      "image": "./assets/services/travel.jpg",
+      "specialists": ["specialist_10"]
+    },
+    {
+      "id": "services_6",
+      "name": "Real estate services",
+      "price": 80,
+      "duration": 90,
+      "image": "./assets/services/realEstate.jpg",
+      "specialists": ["specialist_7", "specialist_9"]
+    },
+    {
+      "id": "services_7",
+      "name": "Bookkeeping services",
+      "price": 80,
+      "duration": 90,
+      "image": "./assets/services/bookkeeping.jpg",
+      "specialists": ["specialist_11"]
+    },
+    {
+      "id": "services_8",
+      "name": "Video and photography services",
+      "price": 80,
+      "duration": 90,
+      "image": "./assets/services/photography.jpg",
+      "specialists": ["specialist_17", "specialist_16"]
+    },
+    {
+      "id": "services_9",
+      "name": "Translation services",
+      "price": 80,
+      "duration": 90,
+      "image": "./assets/services/translation.avif",
+      "specialists": ["specialist_12", "specialist_13"]
+    },
+    {
+      "id": "services_10",
+      "name": "Training services",
+      "price": 80,
+      "duration": 90,
+      "image": "./assets/services/training.jpg",
+      "specialists": ["specialist_14", "specialist_15"]
+    }
+  ]
+}
