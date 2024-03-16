@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "MontserratVariables";
+  src: local("MontserratVariables"),
+    url("../public/assets/fonts/veriable/Montserrat-VariableFont_wght.ttf")
+      format("truetype");
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: MontserratVariables !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body * {
+  font-family: MontserratVariables !important;
+}
+
+code {
+  font-family: MontserratVariables;
+}

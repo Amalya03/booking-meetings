@@ -1,0 +1,107 @@
+{
+    "professionals": [
+      {
+        "id": "specialist_1",
+        "firstName": "John",
+        "lastName": "Smith",
+        "image": "../assets/professionals/marketing_professional.jpg"
+      },
+      {
+        "id": "specialist_2",
+        "firstName": "Sarah",
+        "lastName": "Johnson",
+        "image": "../assets/professionals/marketing_professional2.avif"
+      },
+      {
+        "id": "specialist_3",
+        "firstName": "Michael",
+        "lastName": "Williams",
+        "image": "../assets/professionals/legal_professional_2.avif"
+      },
+      {
+        "id": "specialist_4",
+        "firstName": "Emily",
+        "lastName": "Brown",
+        "image": "../assets/professionals/health_professional_2.avif"
+      },
+      {
+        "id": "specialist_5",
+        "firstName": "Daniel",
+        "lastName": "Davis",
+        "image": "../assets/professionals/legal_professional.jpg"
+      },
+      {
+        "id": "specialist_6",
+        "firstName": "Jessica",
+        "lastName": "Taylor",
+        "image": "../assets/professionals/health_professional.avif"
+      },
+      {
+        "id": "specialist_7",
+        "firstName": "Andrew",
+        "lastName": "Martinez",
+        "image": "../assets/professionals/realEstate_professional_1.avif"
+      },
+      {
+        "id": "specialist_8",
+        "firstName": "Rachel",
+        "lastName": "Thompson",
+        "image": "../assets/professionals/insurance_professional.avif"
+      },
+      {
+        "id": "specialist_9",
+        "firstName": "David",
+        "lastName": "Rodriguez",
+        "image": "../assets/professionals/realEstate_professional.avif"
+      },
+      {
+        "id": "specialist_10",
+        "firstName": "Olivia",
+        "lastName": "Wilson",
+        "image": "../assets/professionals/bookkeeping_professional.avif"
+      },
+      {
+        "id": "specialist_11",
+        "firstName": "Olivia",
+        "lastName": "Wilson",
+        "image": "../assets/professionals/marketing_professional.jpg"
+      },
+      {
+        "id": "specialist_12",
+        "firstName": "Olivia",
+        "lastName": "Wilson",
+        "image": "../assets/professionals/translation_professional.avif"
+      },
+      {
+        "id": "specialist_13",
+        "firstName": "Olivia",
+        "lastName": "Wilson",
+        "image": "../assets/professionals/translation_professional_1.jpg"
+      },
+      {
+        "id": "specialist_14",
+        "firstName": "Olivia",
+        "lastName": "Wilson",
+        "image": "../assets/professionals/training_professional_1.avif"
+      },
+      {
+        "id": "specialist_15",
+        "firstName": "Olivia",
+        "lastName": "Wilson",
+        "image": "../assets/professionals/training_professional.jpg"
+      },
+      {
+        "id": "specialist_16",
+        "firstName": "Olivia",
+        "lastName": "Wilson",
+        "image": "../assets/professionals/photograph_professional.avif"
+      },
+      {
+        "id": "specialist_17",
+        "firstName": "Olivia",
+        "lastName": "Wilson",
+        "image": "../assets/professionals/photograph_professional_1.avif"
+      }
+    ]
+  }
+  
